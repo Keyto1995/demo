@@ -11,6 +11,7 @@
     <modules>
         <module>grpc_demo</module>
         <module>rmi_demo</module>
+        <module>dubbo_demo</module>
     </modules>
     <properties>
         <file.encoding>utf-8</file.encoding>
