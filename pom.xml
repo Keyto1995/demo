@@ -13,6 +13,7 @@
         <module>rmi_demo</module>
         <module>dubbo_demo</module>
         <module>jpa_demo</module>
+        <module>logback_demo</module>
     </modules>
     <properties>
         <file.encoding>utf-8</file.encoding>
